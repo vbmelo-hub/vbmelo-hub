@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Web FullStack`**
 
-Me chamo Vinícius Barros de Melo, tenho 20 anos e sou do Acre.  Atualmente cursando Sistemas para Internet no Instituto Federal do Acre (IFAC) e Escoteiro do ramo Pioneiro no Grupo Leôncio de Carvalho. Sou apaixonado por tecnologia e pelo movimento escoteiro!
+Me chamo Vinícius Barros de Melo, tenho 20 anos e sou do Acre.  Atualmente estou cursando Sistemas para Internet no Instituto Federal do Acre (IFAC) e Escoteiro do ramo Pioneiro no Grupo Leôncio de Carvalho. Sou apaixonado por tecnologia e pelo movimento escoteiro!
 
 <p align="left">
     <a href="https://github.com/vbmelo-hub?tab=repositories&sort=stargazers">
